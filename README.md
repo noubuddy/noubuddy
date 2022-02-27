@@ -7,3 +7,5 @@
 - If you need, you can write me here: gmail - anton.nich00@gmail.com or facebook - https://www.facebook.com/profile.php?id=100009094591288
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noubuddy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noubuddy)](https://github.com/anuraghazra/github-readme-stats)
